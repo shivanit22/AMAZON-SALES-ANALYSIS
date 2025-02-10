@@ -1,2 +1,2 @@
 # AMAZON-SALES-ANALYSIS
-Performed data transformation using Power Query Editor to  handle missing values, create new column and filter data for insightful analysis. Created measures using DAX formulas. Analyzed KPIs and created interactive reports using advance features of Power BI to drive data-driven decision-making and improve business performance. 
+Transformed data using Power Query Editor by handling missing values, creating new columns, and filtering data for meaningful analysis. Developed measures with DAX formulas and analyzed key performance indicators (KPIs). Leveraged advanced Power BI features to create interactive reports, enabling data-driven decision-making and enhancing business performance.
